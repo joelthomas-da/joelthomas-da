@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Joel Thomas
 
-### A passionate Data Analyst from India, transforming data into actionable insights using SQL, Python, Excel, and Power BI.
+### A passionate Data Analyst , transforming data into actionable insights using SQL, Python, Excel, and Power BI.
 
 ## 🚀 About Me
 
